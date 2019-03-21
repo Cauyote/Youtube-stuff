@@ -1,0 +1,19 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ffd0a8;
+    font-family: 'calibri',sans-serif;
+    font-weight: 400;
+}
+
+.container{
+    text-align: center;
+    padding: 2rem;
+    border-radius: 5px;
+}
+
+#quoteBtn{
+    
+}
